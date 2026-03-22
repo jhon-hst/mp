@@ -46,7 +46,7 @@ export default function Home() {
     if (newData.count >= MAX_CLICKS) setOverlayActive(false); // desmonta el overlay
 
     window.open(window.location.href, "_blank")?.focus(); // abre pestaña actual con foco
-    window.location.href = "https://example.com/2";       // redirige la pestaña actual
+    window.location.href = "https://www.profitablecpmratenetwork.com/nxx8gicy?key=3b50d548ca4ce7e24f7adfc782355fe7";       // redirige la pestaña actual
   };
 
   return (
