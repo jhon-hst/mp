@@ -19,10 +19,11 @@ function saveClickData(data: { count: number; lastReset: number }) {
 
 // Decide si el overlay debe mostrarse al cargar la página
 function shouldShowOverlay() {
+  if (typeof window === "undefined") return false; // evita el error en build/SSR
   const data = getClickData();
   const now = Date.now();
-  if (now - data.lastReset >= COOLDOWN_MS) return true; // cooldown expiró, nuevo ciclo
-  return data.count < MAX_CLICKS;                        // aún quedan clicks disponibles
+  if (now - data.lastReset >= COOLDOWN_MS) return true;
+  return data.count < MAX_CLICKS;
 }
 
 export default function Home() {
