@@ -88,7 +88,7 @@ export default function Home() {
   return (
     <main
       id="inicio"
-      className="min-h-screen bg-[radial-gradient(ellipse_at_55%_-20%,rgba(238,167,43,0.075),transparent_42%),#10100f] text-[#f4f1eb]"
+      className="min-h-screen bg-[#10100f] bg-[radial-gradient(ellipse_at_55%_-20%,rgba(238,167,43,0.075),transparent_42%)] text-[#f4f1eb]"
     >
       <div className="flex min-h-[32px] items-center justify-center gap-2 bg-[#0b0b0a] px-4 py-1 text-[11px] tracking-wide text-[#a09d96]">
         <span className="rounded border border-[#73551e] px-1.5 py-0.5 text-[9px] font-extrabold text-[#f4ba4a]">
