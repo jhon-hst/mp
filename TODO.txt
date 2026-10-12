@@ -5,6 +5,8 @@ crear una pagina
     conseguir contenido para reino unido
     favicon
     desplegar
+    add link de publicidad
+    desplegar
     
 hacer publicidad a esa pagina
     crear cuenta en popads.net 
