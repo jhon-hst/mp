@@ -1,16 +1,15 @@
-crear una pagina
-    hacer scraping a una pagina
-    cada vez que le de click a una imagen redirecciona en otra vista la publicidad
-    click 2 veces
-    conseguir contenido para reino unido
-    favicon
-    desplegar
-    add link de publicidad
-    desplegar
-    
-hacer publicidad a esa pagina
-    crear cuenta en popads.net 
-    hacer publicidad
+pagina autoredirect
+pagina solo con clicks en las imagenes
 
-darle clicks a esa pagina
-    sacar cuentas aqui
+pagina que redirecciona al hacer focus ??
+
+
+ {
+    "titulo": "",
+    "urlImagen": "",
+    "time": "",
+    "views": "",
+    "owner": "",
+    "linkAds": "...", (solo dejas los tres puntos y ya)
+    "urlVideo": ""
+  },
