@@ -2,7 +2,7 @@
 
 import { useRef } from "react";
 import type { MouseEvent } from "react";
-import videos from "../assets/data/videosList.json";
+import videos from "../../assets/data/videosList.json";
 
 type Video = {
   titulo: string;
