@@ -1,15 +1,75 @@
-pagina autoredirect
-pagina solo con clicks en las imagenes
+GB 
+15/10/26 7:48PM
+Popads
+    Saldo disponible: 8.87
+    Impresiones: 5,046
+    Saldo Gastado: $7.12
+Adsterra:
+    Impresiones: 3507
+    Ganancia: 5.79
 
-pagina que redirecciona al hacer focus ??
 
+DE
+15/10/26 7:48PM
+Popads
+    Saldo disponible: 7.47
+    Impresiones: 2,780
+    Saldo Gastado: 2.53
+Adsterra:
+    Impresiones: 1964
+    Ganancia: 2.42
+    
 
- {
-    "titulo": "",
-    "urlImagen": "",
-    "time": "",
-    "views": "",
-    "owner": "",
-    "linkAds": "...", (solo dejas los tres puntos y ya)
-    "urlVideo": ""
-  },
+AU
+15/10/26 7:48PM
+Popads
+    Saldo disponible: 8.81
+    Impresiones: 1,373
+    Saldo Gastado: 1.19
+Adsterra:
+    Impresiones: 466
+    Ganancia: 2.12
+
+----
+CA
+15/10/26 7:48PM
+Popads
+    Saldo disponible: 8.05
+    Impresiones: 2,304
+    Saldo Gastado: 1.95
+Adsterra:
+    Impresiones: 1621
+    Ganancia: 0.86
+    
+CA
+16/10/26 7:20AM
+Popads
+    Saldo disponible: 6.16
+    Impresiones: 3,577
+    Saldo Gastado: 3.84
+Adsterra:
+    Impresiones: 2618
+    Ganancia: 2.82
+----
+
+----
+US
+15/10/26 7:48PM
+Popads
+    Saldo disponible: 8.13
+    Impresiones: 2,009
+    Saldo Gastado: 1.87
+Adsterra:
+    Impresiones: 981
+    Ganancia: 1.71 
+    
+US
+16/10/26 7:20AM
+Popads
+    Saldo disponible: 5.89
+    Impresiones: 3,489
+    Saldo Gastado: 4.11
+Adsterra:
+    Impresiones: 1855
+    Ganancia: 1.76
+----
