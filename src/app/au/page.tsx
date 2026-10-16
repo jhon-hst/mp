@@ -2,5 +2,5 @@
 import { redirect } from "next/navigation";
 
 export default function Home() {
-  redirect("https://www.profitableratecpmnetwork.com/favr53pb?key=7d1fdf834d8b6e2bd4a8495128f913f1");
+  redirect("https://www.profitableratecpmnetwork.com/xikqudv1?key=d489e4f2467f45c0166e6bb75d65f657");
 }
