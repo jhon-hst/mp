@@ -2,5 +2,5 @@
 import { redirect } from "next/navigation";
 
 export default function Home() {
-  redirect("https://uplcm.com/4/12048661");
+  redirect("https://ditats.com/gosl/InNpZCI6MTc5NzM0MSwic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjEyNDE3Mjcs?si1=&si2=");
 }

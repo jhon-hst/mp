@@ -73,3 +73,15 @@ Adsterra:
     Impresiones: 1855
     Ganancia: 1.76
 ----
+
+------
+monetag - monetag link
+18/10/26 7:35PM
+Popads
+    Saldo disponible: 3.14
+    Impresiones: 1,017
+    Saldo Gastado: 0.88
+monetag:
+    Impresiones: 1855
+    Ganancia: 1.76
+------
